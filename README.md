@@ -1,1 +1,1 @@
-# karpathy-micrograd-makemore-notes
+# Thanks Andrej
